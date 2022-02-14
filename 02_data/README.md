@@ -1,4 +1,20 @@
-#### Graphing M&Ms Candy with Excel Modified from The National Center for Quality Afterschool
+*Note to DW: I have not taught any CS classes in the past so I explored different tools to teach an intro data analysis lesson* 
+
+#### Option 1- Code.org - Exploring Data Visualization
+#### Learning Goal: students will practice making conclusions from charts and learn to use the Data Visualizer in App Lab 
+#### Procedure:  
+1. Make a bar chart for each column in the "Dogs" dataset and categorize it as either "useful" or "not useful" 
+2. Make a histogram for the "Max Weight" column of the "Dogs" data set and choose the "Bucket Size" that you think is most helpful for interpreting the data.
+3. What bucket size did you choose? Why do you think this is the most helpful bucket size for this chart?
+4. What is the most common range of maximum weights for dog breeds?
+5. What is the least common range of maximum weights for dog breeds?
+6. Choose another dataset within App Lab and import it into your project. You can use the “More Info” button to learn more about a dataset before importing it
+7. Find a column that looks interesting and make either a bar chart or histogram from the data.
+8. What is one piece of information someone could learn from your chart?
+
+Source:  https://studio.code.org/s/explore-data-1-2021/lessons/1 
+
+#### Option 2- Exploring Graphing M&Ms Candy with Excel Modified from The National Center for Quality Afterschool
 
 #### Learning Goals:
 1. Collect data through observations
