@@ -1,7 +1,7 @@
 *Note to DW: I have not taught any CS classes in the past so I explored different tools to teach an intro data analysis lesson* 
 
-#### Option 1- Code.org - Exploring Data Visualization
-#### Learning Goal: students will practice making conclusions from charts and learn to use the Data Visualizer in App Lab 
+### Option 1- Code.org - Exploring Data Visualization
+#### Learning Goal: students will practice making conclusions from charts and learn to use the Data Visualizer in App Lab  
 #### Procedure:  
 1. Make a bar chart for each column in the "Dogs" dataset and categorize it as either "useful" or "not useful" 
 2. Make a histogram for the "Max Weight" column of the "Dogs" data set and choose the "Bucket Size" that you think is most helpful for interpreting the data.
@@ -14,14 +14,12 @@
 
 Source:  https://studio.code.org/s/explore-data-1-2021/lessons/1 
 
-#### Option 2- Exploring Graphing M&Ms Candy with Excel Modified from The National Center for Quality Afterschool
-
+### Option 2- Exploring Graphing M&Ms Candy with Excel Modified from The National Center for Quality Afterschool
 #### Learning Goals:
 1. Collect data through observations
 2. Represent data using tables and graphs (Google sheets or Excel)
 3. Enter data into a spreadsheet, use formulas and create a pie and bar graph
 4. Use ratios and proportions to represent relationships among quantities
-
 #### Procedure:
 1. Open a google docs spreadsheet and name it candy m&m color comparisons 
 2. Label cell A3 (color)
