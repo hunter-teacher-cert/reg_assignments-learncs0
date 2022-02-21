@@ -1,4 +1,4 @@
-*Note to DW: I have not taught any CS classes in the past so I explored different tools to teach an intro data analysis lesson* 
+*Note: I have not taught any CS classes in the past so I explored different tools to teach an intro data analysis lesson* 
 
 ### Option 1- Code.org - Exploring Data Visualization
 #### Learning Goal: students will practice making conclusions from charts and learn to use the Data Visualizer in App Lab  
