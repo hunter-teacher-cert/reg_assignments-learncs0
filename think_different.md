@@ -1,4 +1,4 @@
-##### I am differentiating for all learners (UDL) to access and participate in learning opportunities through **representation**, **engagement** and **reflection**.
+##### I am differentiating for all learners (UDL) to access and participate in learning opportunities through *representation, engagement and reflection*.
 ##### Multiple means of representation:  key information is through different modalities
 1. lecture or direct instruction can be accessed  before it’s taught in class through videos/texts (flipped classroom)
 2. graphic organizers for students to “translate” programs into pseudocode (whiteboard)
