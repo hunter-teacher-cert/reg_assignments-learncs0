@@ -12,4 +12,6 @@
 1. Students answer:  what have I learned; what do I need to work on; what do I need to do to master the material
 2. Students can set SMART learning goals
 3. Offer tutorial; opportunities for revisions
+4. Student practice Executive Functioning/Self Determination skills (mental processes that enable us to plan, focus attention, remember instructions, and juggle multiple tasks successfully): Impulse Control, Planning & prioritizing, Emotional control, Mental flexibility, Working memory, Task initiation, Choice Making, Organization, Self-Awareness, Self-Advocacy, Self-Management, Self-Regulation 
+
 This site was very useful [Universal Design for Learning Guidelines + Computer Science / Computational Thinking](https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/05/Copy-of-UDL-and-CS_CT-remix.pdf).
