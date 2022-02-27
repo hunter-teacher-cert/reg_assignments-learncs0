@@ -12,7 +12,7 @@ I am differentiating for **all learners** (UDL) to access and participate in lea
 2. Allow for differences in pacing/additional time to complete the tasks  (per ELLs, SwDs or other needs)
 3. Students can work independently, in pairs, groups of four or small group instruction with the teacher
 4. Extensions/challenges for advanced learners
-##### Learner Reflection:  students reflect on their choices, learning progress and work quality compared to the rubrics/exemplars/learning objectives
+##### Learner Reflection:  students reflect on metacognition, their choices, learning progress and work quality compared to the rubrics/exemplars/learning objectives
 1. Students answer:  what have I learned; what do I need to work on; what do I need to do to master the material
 2. Students can set SMART learning goals
 3. Offer tutorial; opportunities for revisions
