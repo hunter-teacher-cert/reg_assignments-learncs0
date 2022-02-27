@@ -1,4 +1,4 @@
-##### I am differentiating for all learners (UDL) to access and participate in learning opportunities through *:night_with_stars:representation :night_with_stars:, :sunrise:engagement:sunrise: and :city_sunset:reflection:city_sunset:*.
+I am differentiating for all learners (UDL) to access and participate in learning opportunities through **:night_with_stars:representation :night_with_stars:, :sunrise:engagement:sunrise: and :city_sunset:reflection:city_sunset:**.
 ##### Groups are often heterogeneous unless we have content/skill specific remediation stations
 ##### Multiple means of representation:  key information is through different modalities
 1. lecture or direct instruction can be accessed  before it’s taught in class through videos/texts (flipped classroom)
