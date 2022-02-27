@@ -1,4 +1,7 @@
-I am differentiating for all learners (UDL) to access and participate in learning opportunities through **:vanuatu: representation :vanuatu:, :tokelau: engagement :tokelau: and :palau: reflection :palau:**.
+I am differentiating for **all learners** (UDL) to access and participate in learning opportunities through: 
+- :vanuatu: representation :vanuatu:   
+- :tokelau: engagement :tokelau:
+- :palau: reflection :palau:
 ##### Groups are often heterogeneous unless we have content/skill specific remediation stations
 ##### Multiple means of representation:  key information is through different modalities
 1. lecture or direct instruction can be accessed  before it’s taught in class through videos/texts (flipped classroom)
