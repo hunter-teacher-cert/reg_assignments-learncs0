@@ -6,7 +6,9 @@ I am differentiating for **all learners** (UDL) to access and participate in lea
 ##### Multiple means of representation:  key information is through different modalities
 1. lecture or direct instruction can be accessed  before it’s taught in class through videos/texts (flipped classroom)
 2. graphic organizers for students to “translate” programs into pseudocode (whiteboard)
-3. unplugged physical representations; teacher models the content; videos teach/reinforce the same content; anchor charts/reference tables provide visual and text reminders; translations in Spanish and Arabic
+3. unplugged physical representations
+4. teacher models the content; videos teach/reinforce the same content; anchor charts/reference tables provide similar visual and text reminders
+5. translations in Spanish and Arabic
 ##### Engagement:  offer choices in how learning objective can be reached and in the tools or supports available
 1. Students can choose the tough, tougher or toughest assignment;   assignments should be relevant to student’s culture and age;  
 2. Allow for differences in pacing/additional time to complete the tasks  (per ELLs, SwDs or other needs)
